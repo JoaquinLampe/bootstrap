@@ -1,0 +1,12 @@
+body {
+    background-color: red;
+}
+
+.container-fluid {
+    margin: 0;
+    padding: 0;
+}
+
+.titulo-portfolio {
+    background-color: #18bc9c;
+}
